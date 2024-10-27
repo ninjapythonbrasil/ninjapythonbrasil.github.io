@@ -125,5 +125,5 @@ Bons estudos e mãos à obra!
 
 #### Referências
 
-- [Documentação da biblioteca maskify-py](https://github.com/ferronicardoso/maskify-py)
+- [Documentação da biblioteca maskify-py](https://github.com/ninjapythonbrasil/maskify-py)
 - [Repositório do maskify-py no PyPi](https://pypi.org/project/maskify-py/)
