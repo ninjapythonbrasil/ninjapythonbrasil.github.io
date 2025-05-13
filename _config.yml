@@ -60,6 +60,7 @@ plugins:
 
 # Custom variables
 version: "1.0.0"
+year: 2025
 github: "ninjapythonbrasil"
 facebook: "ninjapython"
 twitter: "ninjapython"
